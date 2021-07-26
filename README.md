@@ -4,7 +4,7 @@ git config --global user.name "yourgithubname"
 git config --global user.email "yourgithubemail"
 
 git init
-git add
+git add .
 git commit -m "fill with your want"
 git status
 
