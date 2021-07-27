@@ -1,3 +1,13 @@
 body {
   background-color: lightblue;
 }
+
+.judul{
+  font-size: 15px;
+  font-family: 'Anton', sans-serif;
+  
+}
+.sapaan{
+  font-size: 20px;
+  color: black;
+}
